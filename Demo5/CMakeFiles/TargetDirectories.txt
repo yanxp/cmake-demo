@@ -1,0 +1,2 @@
+/home/yanxp/yarley/yanxp/codework/cmake-demo/Demo5/CMakeFiles/Demo.dir
+/home/yanxp/yarley/yanxp/codework/cmake-demo/Demo5/math/CMakeFiles/MathFunctions.dir

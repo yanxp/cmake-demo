@@ -1,0 +1,4 @@
+/home/yanxp/yarley/yanxp/codework/cmake-demo/Demo8/_CPack_Packages/Linux/TZ/Demo8-1.0.1-Linux/bin/Demo
+/home/yanxp/yarley/yanxp/codework/cmake-demo/Demo8/_CPack_Packages/Linux/TZ/Demo8-1.0.1-Linux/include/config.h
+/home/yanxp/yarley/yanxp/codework/cmake-demo/Demo8/_CPack_Packages/Linux/TZ/Demo8-1.0.1-Linux/lib/libMathFunctions.a
+/home/yanxp/yarley/yanxp/codework/cmake-demo/Demo8/_CPack_Packages/Linux/TZ/Demo8-1.0.1-Linux/include/MathFunctions.h
